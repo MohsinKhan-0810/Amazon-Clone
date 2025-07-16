@@ -29,11 +29,11 @@ Screenshot
 Follow these steps to run it on your computer:
 
 ### 1. Clone the Repository 
-cd Desktop
-git clone https://github.com/MohsinKhan-0810/Amazon-Clone.git
-Open in Browser
-Option 1: Double click on index.html
-Option 2: Open in VS Code and use Live Server extension
+- cd Desktop
+- git clone https://github.com/MohsinKhan-0810/Amazon-Clone.git
+- Open in Browser
+- Option 1: Double click on index.html
+- Option 2: Open in VS Code and use Live Server extension
 
 
 👨‍💻 Author
